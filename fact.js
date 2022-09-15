@@ -1,5 +1,6 @@
+const prompt=require("prompt-sync")();
+let num=prompt("Enter NUmber To find Factorial ");
 
-num=5;
 sum=1;
 temp=num;
 while(temp>1)
